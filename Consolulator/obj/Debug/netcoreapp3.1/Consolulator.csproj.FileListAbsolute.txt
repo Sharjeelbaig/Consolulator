@@ -1,0 +1,13 @@
+C:\Users\drsha\source\repos\Consolulator\bin\Debug\netcoreapp3.1\Consolulator.exe
+C:\Users\drsha\source\repos\Consolulator\bin\Debug\netcoreapp3.1\Consolulator.deps.json
+C:\Users\drsha\source\repos\Consolulator\bin\Debug\netcoreapp3.1\Consolulator.runtimeconfig.json
+C:\Users\drsha\source\repos\Consolulator\bin\Debug\netcoreapp3.1\Consolulator.runtimeconfig.dev.json
+C:\Users\drsha\source\repos\Consolulator\bin\Debug\netcoreapp3.1\Consolulator.dll
+C:\Users\drsha\source\repos\Consolulator\bin\Debug\netcoreapp3.1\Consolulator.pdb
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.csprojAssemblyReference.cache
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.AssemblyInfoInputs.cache
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.AssemblyInfo.cs
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.csproj.CoreCompileInputs.cache
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.dll
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.pdb
+C:\Users\drsha\source\repos\Consolulator\obj\Debug\netcoreapp3.1\Consolulator.genruntimeconfig.cache
